@@ -1,7 +1,7 @@
 # SEI-Project-One
 
-**Aliantra** - stock market for small, local or start-up businesses. A place for business collaborations, of any size. Platform for small businesses. **This project just displays real company stock prices and info**
-using apis and a user friend UI
+**Aliantra** - stock market for small, local or start-up businesses. A place for business collaborations, of any size. Platform for small businesses. **This project just displays real company stock prices and info
+using apis and a user friend UI**
 
 ## The sites main features 
 - On home page, main section, displays top 5 stocks with highest market cap
