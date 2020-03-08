@@ -26,11 +26,25 @@ doesn't exist. If get gets rejected
 - Clicking on *Aliantra* logo or h1 name will bring user back to the home page
 - Most info will be visible without scrolling on company info page
 - Most of the website will use grid, include entire page container, main and side cell divs, and company info page
-- On mobile, cell container divs will stack ontop of eachother. Home button will disappear, but user can still return to main 
-page via logo or click on the *Aliantra* title
+- On mobile, cell container divs will stack ontop of eachother. Home button will disappear, but user can still return to main page via logo or click on the *Aliantra* title
 
-![Main page]()
-![Secondary, stock info page] ()
+
+
+![Main page](https://github.com/jason1642/SEI-Project-One/blob/master/Screen%20Shot%202020-03-07%20at%2011.02.39%20PM.png)
+
+
+
+
+
+![Secondary, stock info page](https://github.com/jason1642/SEI-Project-One/blob/master/Screen%20Shot%202020-03-08%20at%205.23.07%20PM.png)
+
+## Mobile Version
+![Main page, moblie](https://github.com/jason1642/SEI-Project-One/blob/master/Screen%20Shot%202020-03-08%20at%206.29.49%20PM.png)
+
+
+![Secondary page, mobile](https://github.com/jason1642/SEI-Project-One/blob/master/Screen%20Shot%202020-03-08%20at%206.33.26%20PM.png)
+
+
 
 ## Available information from the api
 - Market Cap
