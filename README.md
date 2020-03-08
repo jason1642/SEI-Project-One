@@ -21,7 +21,7 @@ doesn't exist. If get gets rejected
 - (Attempting) Add another api, that will display a few news articles on the stock info page
 
 ## Styling 
-- On desktop, pages will be 100 view height
+- On desktop, will try to fit all content on page without having to scroll
 - Color scheme will be blue and white
 - Clicking on *Aliantra* logo or h1 name will bring user back to the home page
 - Most info will be visible without scrolling on company info page
