@@ -1,0 +1,90 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+  -ms-grid-rows: 11% 1fr;
+  grid-template-rows: 11% 1fr;
+}
+
+header {
+  -ms-grid-row: 1;
+  -ms-grid-row-span: 1;
+  grid-row: 1/2;
+  background-color: grey;
+}
+
+.div-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: auto;
+  background-color: lightgrey;
+}
+
+/* .polarDiv:active {
+  border: 1px grey solid;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  position: absolute;
+  height: 80vh;
+  width: 100%;
+  margin: 0 auto;
+} */
+
+.polarDiv {
+  background-color: white;
+  border: 1px grey solid;
+  height: 40vh;
+  width: 40vw;
+  margin: auto;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div ul {
+  color: red;
+}
+
+.div-img-covered {
+  height: 100%;
+  width: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  height: 40px;
+  width: 100px;
+  position: relative;
+  left: 40%;
+  display: inline-block;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  position: relative;
+  left: 45%;
+  display: inline-block;
+}
+
+img {
+  height: 100%;
+  width: auto;
+}
