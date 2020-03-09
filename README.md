@@ -60,4 +60,6 @@ doesn't exist. If get gets rejected
 - Change Percentage
 - Average Volume
 
+## API used: 
+https://financialmodelingprep.com/developer/docs/
 ##### If MVP achieved early, I will either add another api that displays news, or launch website on Aliantra.com (My domain)
